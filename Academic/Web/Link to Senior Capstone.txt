@@ -1,4 +1,0 @@
-http://dashack.cc/
-
-From Dashback.cc: "Dashback.cc is an easy-to-use web-application that can be used in the creation of tournaments using different types of bracket organization. The application is designed to be used by clients of all technological backgrounds and can be used by Esports communities during tournaments or events.
-Tournament organizers, attendees and spectators will be able to view the web-application online to track the progress of the bracket tournaments they choose."
